@@ -1,3 +1,11 @@
+### [0.2.2](https://github.com/aaronik/tones/releases/tag/0.2.2)
+
+  * (Aaron Sullivan) Update package lock
+  * (Aaron Sullivan) Update TODOs in readme
+  * (Aaron Sullivan) Try 2 at adding google adsense code
+  * (Aaron Sullivan) Remove call to npm run clean
+  * (Aaron Sullivan) Remove clean command
+
 ### [0.2.1](https://github.com/aaronik/tones/releases/tag/0.2.1)
 
   * (Aaron Sullivan) Add google adsense

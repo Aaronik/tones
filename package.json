@@ -1,7 +1,7 @@
 {
   "name": "tones",
   "description": "Serverless multiplayer musical instrument, built on canvas",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Aaron Sullivan <aasullivan1618@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/aaronik/tones",
